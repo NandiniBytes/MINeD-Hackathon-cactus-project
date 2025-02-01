@@ -1,9 +1,0 @@
-pdf_path: "path/to/pdf/files"
-output_dir: "output"
-log_file: "logs/pipeline.log"
-image_width: 800
-image_height: 600
-font_size: 12
-summary_width: 70
-batch_processing: true
-cleanup_temp_files: true
