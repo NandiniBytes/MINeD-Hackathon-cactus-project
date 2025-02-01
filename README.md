@@ -57,10 +57,11 @@ cp .env.example .env
 python backend/process_pdfs.py
 ```
 
-2. **Launch the Streamlit app**
-```bash
-streamlit run frontend/app.py
-```
+2. **Launch the frontend**
+## Quick Start
+u can access the published site at: https://v0-min-ed-hackathon-djnguy.vercel.app/
+
+
 
 3. **Access the application at** `http://localhost:8501`
 
