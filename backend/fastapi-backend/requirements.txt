@@ -1,0 +1,8 @@
+FastAPI
+uvicorn
+pdfplumber
+Pillow
+Matplotlib
+pydub
+python-pptx
+fastapi-cors
